@@ -1,0 +1,6 @@
+{
+  "name": "ACADEMIQ - Academic Deadline & Priority System",
+  "description": "Intelligent academic deadline tracking and priority management system with automated scheduling, study planner, analytics, and teacher management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

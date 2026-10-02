@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1E3A8A</color>
+    <color name="primary_variant">#172554</color>
+    <color name="secondary">#3B82F6</color>
+    <color name="accent">#6366F1</color>
+    
+    <!-- Priority Level Colors -->
+    <color name="priority_critical">#E11D48</color>
+    <color name="priority_critical_bg">#FFF1F2</color>
+    <color name="priority_high">#D97706</color>
+    <color name="priority_high_bg">#FEF3C7</color>
+    <color name="priority_medium">#0284C7</color>
+    <color name="priority_medium_bg">#E0F2FE</color>
+    <color name="priority_low">#059669</color>
+    <color name="priority_low_bg">#D1FAE5</color>
+    
+    <!-- Surface & Backgrounds -->
+    <color name="surface_light">#FFFFFF</color>
+    <color name="background_light">#F8FAFC</color>
+    <color name="surface_dark">#0F172A</color>
+    <color name="background_dark">#020617</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+</resources>

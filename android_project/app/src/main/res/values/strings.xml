@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ACADEMIQ</string>
+    <string name="app_tagline">Know What Matters. Do It on Time.</string>
+    <string name="what_should_i_do_now">WHAT SHOULD I DO NOW?</string>
+    <string name="overall_academic_progress">Overall Academic Progress</string>
+    <string name="pending_submissions">Pending Submissions</string>
+    <string name="upcoming_tests">Upcoming Tests</string>
+    <string name="overdue_tasks">Overdue Tasks</string>
+    <string name="start_work">Start Work</string>
+    <string name="study_planner">Today\'s Study Plan</string>
+    <string name="what_if_simulator">What-If Simulator</string>
+    <string name="add_task">ADD TASK</string>
+    <string name="change_deadline">CHANGE DEADLINE</string>
+    <string name="view_students">VIEW STUDENTS</string>
+    <string name="view_progress">VIEW PROGRESS</string>
+    <string name="send_announcement">SEND ANNOUNCEMENT</string>
+</resources>
